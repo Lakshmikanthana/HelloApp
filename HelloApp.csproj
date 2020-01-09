@@ -6,6 +6,7 @@
     <StartupObject>HelloApp.Program</StartupObject>
     <ApplicationIcon />
     <OutputType>Exe</OutputType>
+     <IsPackable>true</IsPackable>
   </PropertyGroup>
 
 
