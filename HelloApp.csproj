@@ -7,6 +7,8 @@
     <ApplicationIcon />
     <OutputType>Exe</OutputType>
      <IsPackable>true</IsPackable>
+     <Configurations>Debug;Release;Base</Configurations>
+     <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
 
